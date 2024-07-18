@@ -60,7 +60,7 @@ st.markdown('''
             <i>Computer Vision</i> <br> 
             Klasifikasi Sayuran Dengan Menggunakan Metode MobileNet
         </h2>
-        <span>Kelompok 4 PAGI B</span>
+        <span>Kelompok 4 Pagi A</span>
     </div>
     <hr style="height:5px;border-width:0;color:gray;background-color:gray">''', 
     unsafe_allow_html=True)
